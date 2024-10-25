@@ -1,0 +1,14 @@
+.sort {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sort-label {
+    margin-right: 10px; /* Khoảng cách giữa label và select */
+  }
+  
+  .sort-select {
+    background-color: #007bff; /* Màu nền xanh */
+    color: white; /* Màu chữ trắng */
+    width: 200px; /* Đặt chiều rộng cụ thể */
+  }
